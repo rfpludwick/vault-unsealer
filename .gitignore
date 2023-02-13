@@ -1,0 +1,4 @@
+.devcontainer/*-local.sh
+bin/
+conf/configuration.yaml
+vault-unsealer

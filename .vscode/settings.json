@@ -1,0 +1,4 @@
+{
+	"window.title": "${activeEditorMedium}${dirty}${separator}Vault Unsealer${separator}${appName}",
+	"git.ignoreLimitWarning": true
+}

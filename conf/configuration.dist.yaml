@@ -1,0 +1,8 @@
+---
+
+address: "http://localhost:8200"
+loopSeconds: 10
+unseal:
+  key: abc123
+  env: VAULT_UNSEAL_KEY
+  file: "/vault-unseal-key.txt"
