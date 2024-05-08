@@ -1,6 +1,6 @@
 module github.com/rfpludwick/vault-unsealer
 
-go 1.17
+go 1.18
 
 require (
 	github.com/hashicorp/vault/api v1.9.0
