@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.25.1
 
 require (
-	github.com/hashicorp/vault/api v1.21.0
+	github.com/hashicorp/vault/api v1.22.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
