@@ -16,13 +16,9 @@ func init() {
 func main() {
 	err := exec()
 
-	if err != nil {
-		fmt.Fprintln(os.Stderr, err)
+	fmt.Fprintln(os.Stderr, err)
 
-		os.Exit(1)
-	}
-
-	os.Exit(0)
+	os.Exit(1)
 }
 
 func exec() error {
